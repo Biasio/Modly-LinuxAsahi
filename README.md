@@ -46,4 +46,6 @@ Eventual environment configuration (variables, keys, etc.) must be defined in an
 
 # License
 
-> Based on [Modly](https://github.com/lightningpixel/modly) by [Lightning Pixel](https://github.com/lightningpixel)
+> This repo is heavily based on the work of [Modly](https://github.com/lightningpixel/modly) by [Lightning Pixel](https://github.com/lightningpixel)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
